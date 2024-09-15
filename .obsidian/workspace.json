@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "61e2bb49ddb0bd09",
+    "type": "split",
+    "children": [
+      {
+        "id": "42c35838121c3f34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a39b632e4294b755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coefficients.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3670577bec47dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Set.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55c6fefb0ea6fc27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e675dd27b0f648a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inverse function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e40b60644a2e528a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3c579a608d10bcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "single variable polynomial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e386736fa688d4df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "polynomial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "068f1784e3d8acf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "roots of a polynomial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bc096ca45e9b86a",
+    "type": "split",
+    "children": [
+      {
+        "id": "40fbb5ab19870627",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39eaee140fe9d76b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "568c2f89019461bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1542d4015ba61955",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22516f269a06ed02",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff04d30c0d7472c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7393771785f6ae30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "inverse function.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb145568e2df30ad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "inverse function.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e81b49e2099b2ec0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c740bf2cb1ac33a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "inverse function.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e675dd27b0f648a9",
+  "lastOpenFiles": [
+    "functions.md",
+    "inverse function.md",
+    "Graphs.md",
+    "Series.md",
+    "summation notation.md",
+    "space.md",
+    "single variable polynomial.md",
+    "Set.md",
+    "coefficients.md",
+    "polynomial.md",
+    "roots of a polynomial.md",
+    "sequences.md",
+    "terms of a polynomial.md",
+    "Polynomial equation.md",
+    "grade 10 math.md",
+    "grade 11 math.md",
+    "mathematical objects.md",
+    "grade 11.md"
+  ]
+}
